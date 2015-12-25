@@ -1,8 +1,8 @@
-FROM node:4.2.3
+FROM node:5.3.0
 MAINTAINER Dan Lynn <docker@danlynn.org>
 
-# Note: npm is v2.14.7
-RUN npm install -g ember-cli@1.13.13
+# Note: npm is v3.3.12
+RUN npm install -g ember-cli@2.2.0-beta.1
 RUN npm install -g bower@1.7.1
 RUN npm install -g phantomjs@1.9.19
 
