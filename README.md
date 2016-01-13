@@ -1,3 +1,7 @@
+## Original repo
+
+Go to [the original repository](https://hub.docker.com/r/danlynn/ember-cli/) for the stable versions. This one is temporarily hosting beta versions of ember-cli v2.2.0, at least until the stable version comes out and the original repo is updated.
+
 ## Supported tags and respective `Dockerfile` links
 
 + [`2.2.0-beta.4`,`latest` (2.2.0-beta.4/Dockerfile)](https://github.com/danlynn/ember-cli/blob/2.2.0-beta.4/Dockerfile)
