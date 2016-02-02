@@ -4,7 +4,8 @@ Go to [the original repository](https://hub.docker.com/r/danlynn/ember-cli/) for
 
 ## Supported tags and respective `Dockerfile` links
 
-+ [`2.3.0-beta.1`,`latest` (2.3.0-beta.1/Dockerfile)](https://github.com/mathieul/ember-cli/blob/2.3.0-beta.1/Dockerfile)
++ [`2.3.0-beta.1-1`,`latest` (2.3.0-beta.1-1/Dockerfile)](https://github.com/mathieul/ember-cli/blob/2.3.0-beta.1-1/Dockerfile)
++ [`2.3.0-beta.1` (2.3.0-beta.1/Dockerfile)](https://github.com/mathieul/ember-cli/blob/2.3.0-beta.1/Dockerfile)
 + [`2.2.0-beta.6` (2.2.0-beta.6/Dockerfile)](https://github.com/mathieul/ember-cli/blob/2.2.0-beta.6/Dockerfile)
 + [`2.2.0-beta.4` (2.2.0-beta.4/Dockerfile)](https://github.com/mathieul/ember-cli/blob/2.2.0-beta.4/Dockerfile)
 + [`2.2.0-beta.2` (2.2.0-beta.2/Dockerfile)](https://github.com/mathieul/ember-cli/blob/2.2.0-beta.2/Dockerfile)
@@ -21,7 +22,7 @@ This image was originally based on: [geoffreyd/ember-cli](https://registry.hub.d
 
 This image contains everything you need to have a working development environment for ember-cli.  The container's working dir is /myapp so that you can setup a volume mapping your project dir to /myapp in the container.
 
-ember-cli v2.3.0-beta.1 + node 5.4.0 + npm 3.3.12 + bower 1.7.1 + phantomjs 1.9.19 + watchman 3.5.0
+ember-cli v2.3.0-beta.1 + node 5.5.0 + npm 3.3.12 + bower 1.7.2 + phantomjs 2.1.3 + watchman 4.3.0
 
 ## How to use - Easy Way
 
